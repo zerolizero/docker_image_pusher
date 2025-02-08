@@ -1,1 +1,1 @@
-docker.elastic.co/elasticsearch/elasticsearch:8.10.2
+onlyoffice/documentserver:latest
